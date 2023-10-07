@@ -1,0 +1,191 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#body {
+	margin: 0%;
+	padding: 0%;
+}
+body {
+	font-family: "Roboto Condensed", sans-serif;
+	/* background-color: #373132; */
+}
+div[contenteditable="true"] {
+	outline: none;
+}
+p[contenteditable="true"] {
+	outline: none;
+}
+#readOnlyPart {
+	background-image: url("/img/footballBackground.jpg");
+	mix-blend-mode: darken;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+#dropdown {
+	display: none;
+}
+#liveScore {
+	max-width: 80%;
+}
+#writePart {
+	background-color: #f2f2f2;
+}
+
+/* buttons start  */
+#enterData {
+	border: 1px solid #f5620f;
+	cursor: pointer;
+	margin-top: 3rem;
+	max-width: 90%;
+	flex-wrap: wrap;
+}
+
+.enterdataDiv {
+	padding: 0.5rem 0.5rem;
+	font-size: 1.5rem;
+	background-color: white;
+	border-color: #8c8c8c;
+	text-align: center;
+	color: #8c8c8c;
+	box-sizing: border-box;
+}
+.enterdataDiv:hover {
+	color: #f5620f;
+}
+/* enter data button end*/
+/* dropdown part */
+#goal:hover #teams {
+	display: block;
+	position: absolute;
+	margin-left: -0.25rem;
+	background-color: white;
+	border: 1px solid #f5620f;
+	padding: 0.25rem;
+	font-size: 1.25rem;
+}
+#goal:hover #fteams {
+	display: block;
+	position: absolute;
+	margin-left: -0.25rem;
+	background-color: white;
+	border: 1px solid #f5620f;
+	padding: 0.25rem;
+	font-size: 1.25rem;
+}
+#goal:hover #cteams {
+	display: block;
+	position: absolute;
+	margin-left: -0.25rem;
+	background-color: white;
+	border: 1px solid #f5620f;
+	padding: 0.25rem;
+	font-size: 1.25rem;
+}
+#team1:hover .dropdown1 {
+	display: block;
+	position: absolute;
+	background-color: white;
+	margin-left: 5rem;
+	margin-top: -2.2rem;
+	padding: 0.5rem;
+	width: 5rem;
+	border: 1px solid #f5620f;
+	font-size: 1rem;
+}
+#team2:hover .dropdown2 {
+	display: block;
+	position: absolute;
+	background-color: white;
+	margin-top: -2.2rem;
+	margin-left: 5rem;
+	padding: 0.5rem;
+	width: 5rem;
+	border: 1px solid #f5620f;
+	font-size: 1rem;
+}
+/* end dropdown part  */
+
+/* add time dropdown */
+.numberInput {
+	display: none;
+	padding: 0.25rem;
+	background-color: white;
+	border: 1px solid #f5620f;
+	font-size: 1rem;
+	width: 5rem;
+	text-align: center;
+}
+input:active,
+input:focus {
+	outline: none;
+	padding: 0.25rem;
+	background-color: white;
+	border: 1px solid #f5620f;
+	font-size: 1rem;
+	width: 5rem;
+	text-align: center;
+}
+.numberInput.invalid {
+	border: 2px solid red;
+}
+/* add time dropdown end  */
+
+/* back button*/
+#backToIndex {
+	background-color: #373132;
+	position: absolute;
+	z-index: 1;
+	top: 5%;
+	left: 3%;
+	border: solid 2px #f5620f;
+}
+/* back button end */
+
+/* playing map area start */
+#playingMap {
+	background-image: url("/img/footballPitchnew.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	max-width: 90%;
+	min-height: 600px;
+	display: flex;
+	align-items: center;
+}
+#T1 {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	text-align: center;
+}
+#T2 {
+	display: flex;
+	justify-items: center;
+	align-items: center;
+	text-align: center;
+}
+#playingMap img {
+	height: 3.5rem;
+	width: 3.5rem;
+	justify-content: center;
+	align-content: center;
+}
+/* playing map end */
+
+/* timeline start */
+#timelineOverflow {
+	max-height: 250px;
+	text-align: center;
+	overflow-y: auto;
+}
+#Timeline {
+	width: 85%;
+}
+#abcd {
+	color: #3b013aff;
+}
+/* timeline end */
+#Timeline {
+	border: 1px solid #f5620f;
+}
