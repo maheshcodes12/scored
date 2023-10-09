@@ -171,7 +171,7 @@ input:focus {
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	max-width: 90%;
-	min-height: 600px;
+	min-height: fit-content;
 	display: flex;
 	align-items: center;
 }
@@ -207,7 +207,43 @@ input:focus {
 #abcd {
 	color: #3b013aff;
 }
-/* timeline end */
 #Timeline {
 	border: 1px solid #f5620f;
+}
+
+/* timeline end */
+/* media query for small devices */
+@media screen and (max-width: 480px) {
+	#backToIndex {
+		display: none;
+	}
+	#winningTeam {
+		font-size: medium;
+	}
+	#enterData {
+		font-size: small;
+	}
+	#playingMap {
+		min-height: 300px;
+		font-size: 10px;
+		max-height: 250px;
+	}
+	#T1,
+	#T2 {
+		height: 250px;
+	}
+	#playingMap div img {
+		height: 20px;
+		width: 20px;
+	}
+	#liveScore {
+		font-size: 1.75rem;
+	}
+	#abcd {
+		font-size: 1.5rem;
+		margin: 0 0;
+	}
+	#timelineContent {
+		font-size: 1rem;
+	}
 }
