@@ -882,7 +882,7 @@ p[contenteditable="true"] {
 }
 
 #readOnlyPart {
-  background-image: url("/img/footballBackground.jpg");
+  background-image: url("img/footballBackground.jpg");
   mix-blend-mode: darken;
   background-size: cover;
   background-position: center;
@@ -1030,7 +1030,7 @@ input:focus {
 /* playing map area start */
 
 #playingMap {
-  background-image: url("/img/footballPitchnew.jpg");
+  background-image: url("img/footballPitchnew.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
   max-width: 90%;

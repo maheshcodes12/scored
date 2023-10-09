@@ -418,57 +418,57 @@ gdropdown1.addEventListener("click", function (event) {
 		case "gT1P1Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p1.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P1");
-			imgOfPlayer.src = "/img/Goal1.svg";
+			imgOfPlayer.src = "img/Goal1.svg";
 			break;
 		case "gT1P2Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p2.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P2");
-			imgOfPlayer.src = "/img/Goal1.svg";
+			imgOfPlayer.src = "img/Goal1.svg";
 			break;
 		case "gT1P3Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p3.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P3");
-			imgOfPlayer.src = "/img/Goal1.svg";
+			imgOfPlayer.src = "img/Goal1.svg";
 			break;
 		case "gT1P4Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p4.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P4");
-			imgOfPlayer.src = "/img/Goal1.svg";
+			imgOfPlayer.src = "img/Goal1.svg";
 			break;
 		case "gT1P5Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p5.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P5");
-			imgOfPlayer.src = "/img/Goal1.svg";
+			imgOfPlayer.src = "img/Goal1.svg";
 			break;
 		case "gT1P6Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p6.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P6");
-			imgOfPlayer.src = "/img/Goal1.svg";
+			imgOfPlayer.src = "img/Goal1.svg";
 			break;
 		case "gT1P7Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p7.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P7");
-			imgOfPlayer.src = "/img/Goal1.svg";
+			imgOfPlayer.src = "img/Goal1.svg";
 			break;
 		case "gT1P8Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p8.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P8");
-			imgOfPlayer.src = "/img/Goal1.svg";
+			imgOfPlayer.src = "img/Goal1.svg";
 			break;
 		case "gT1P9Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p9.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P9");
-			imgOfPlayer.src = "/img/Goal1.svg";
+			imgOfPlayer.src = "img/Goal1.svg";
 			break;
 		case "gT1P10Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p10.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P10");
-			imgOfPlayer.src = "/img/Goal1.svg";
+			imgOfPlayer.src = "img/Goal1.svg";
 			break;
 		case "gT1P11Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p11.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P11");
-			imgOfPlayer.src = "/img/Goal1.svg";
+			imgOfPlayer.src = "img/Goal1.svg";
 			break;
 		default:
 			team1.goals--;
@@ -490,57 +490,57 @@ gdropdown2.addEventListener("click", function (event) {
 		case "gT2P1Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p1.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P1");
-			imgOfPlayer.src = "/img/Goal2.svg";
+			imgOfPlayer.src = "img/Goal2.svg";
 			break;
 		case "gT2P2Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p2.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P2");
-			imgOfPlayer.src = "/img/Goal2.svg";
+			imgOfPlayer.src = "img/Goal2.svg";
 			break;
 		case "gT2P3Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p3.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P3");
-			imgOfPlayer.src = "/img/Goal2.svg";
+			imgOfPlayer.src = "img/Goal2.svg";
 			break;
 		case "gT2P4Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p4.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P4");
-			imgOfPlayer.src = "/img/Goal2.svg";
+			imgOfPlayer.src = "img/Goal2.svg";
 			break;
 		case "gT2P5Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p5.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P5");
-			imgOfPlayer.src = "/img/Goal2.svg";
+			imgOfPlayer.src = "img/Goal2.svg";
 			break;
 		case "gT2P6Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p6.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P6");
-			imgOfPlayer.src = "/img/Goal2.svg";
+			imgOfPlayer.src = "img/Goal2.svg";
 			break;
 		case "gT2P7Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p7.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P7");
-			imgOfPlayer.src = "/img/Goal2.svg";
+			imgOfPlayer.src = "img/Goal2.svg";
 			break;
 		case "gT2P8Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p8.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P8");
-			imgOfPlayer.src = "/img/Goal2.svg";
+			imgOfPlayer.src = "img/Goal2.svg";
 			break;
 		case "gT2P9Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p9.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P9");
-			imgOfPlayer.src = "/img/Goal2.svg";
+			imgOfPlayer.src = "img/Goal2.svg";
 			break;
 		case "gT2P10Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p10.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P10");
-			imgOfPlayer.src = "/img/Goal2.svg";
+			imgOfPlayer.src = "img/Goal2.svg";
 			break;
 		case "gT2P11Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p11.name} scored a goal ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P11");
-			imgOfPlayer.src = "/img/Goal2.svg";
+			imgOfPlayer.src = "img/Goal2.svg";
 			break;
 		default:
 			team2.goals--;
@@ -562,57 +562,57 @@ ydropdown1.addEventListener("click", function (event) {
 		case "yT1P1Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p1.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P1");
-			imgOfPlayer.src = "/img/yellowCard1.svg";
+			imgOfPlayer.src = "img/yellowCard1.svg";
 			break;
 		case "yT1P2Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p2.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P2");
-			imgOfPlayer.src = "/img/yellowCard1.svg";
+			imgOfPlayer.src = "img/yellowCard1.svg";
 			break;
 		case "yT1P3Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p3.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P3");
-			imgOfPlayer.src = "/img/yellowCard1.svg";
+			imgOfPlayer.src = "img/yellowCard1.svg";
 			break;
 		case "yT1P4Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p4.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P4");
-			imgOfPlayer.src = "/img/yellowCard1.svg";
+			imgOfPlayer.src = "img/yellowCard1.svg";
 			break;
 		case "yT1P5Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p5.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P5");
-			imgOfPlayer.src = "/img/yellowCard1.svg";
+			imgOfPlayer.src = "img/yellowCard1.svg";
 			break;
 		case "yT1P6Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p6.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P6");
-			imgOfPlayer.src = "/img/yellowCard1.svg";
+			imgOfPlayer.src = "img/yellowCard1.svg";
 			break;
 		case "yT1P7Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p7.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P7");
-			imgOfPlayer.src = "/img/yellowCard1.svg";
+			imgOfPlayer.src = "img/yellowCard1.svg";
 			break;
 		case "yT1P8Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p8.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P8");
-			imgOfPlayer.src = "/img/yellowCard1.svg";
+			imgOfPlayer.src = "img/yellowCard1.svg";
 			break;
 		case "yT1P9Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p9.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P9");
-			imgOfPlayer.src = "/img/yellowCard1.svg";
+			imgOfPlayer.src = "img/yellowCard1.svg";
 			break;
 		case "yT1P10Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p10.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P10");
-			imgOfPlayer.src = "/img/yellowCard1.svg";
+			imgOfPlayer.src = "img/yellowCard1.svg";
 			break;
 		case "yT1P11Btn":
 			timelineContent.innerHTML = `</br>${team1.name} : ${t1p11.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT1P11");
-			imgOfPlayer.src = "/img/yellowCard1.svg";
+			imgOfPlayer.src = "img/yellowCard1.svg";
 			break;
 		default:
 			team1.yellowCards--;
@@ -632,57 +632,57 @@ ydropdown2.addEventListener("click", function (event) {
 		case "yT2P1Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p1.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P1");
-			imgOfPlayer.src = "/img/yellowCard2.svg";
+			imgOfPlayer.src = "img/yellowCard2.svg";
 			break;
 		case "yT2P2Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p2.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P2");
-			imgOfPlayer.src = "/img/yellowCard2.svg";
+			imgOfPlayer.src = "img/yellowCard2.svg";
 			break;
 		case "yT2P3Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p3.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P3");
-			imgOfPlayer.src = "/img/yellowCard2.svg";
+			imgOfPlayer.src = "img/yellowCard2.svg";
 			break;
 		case "yT2P4Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p4.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P4");
-			imgOfPlayer.src = "/img/yellowCard2.svg";
+			imgOfPlayer.src = "img/yellowCard2.svg";
 			break;
 		case "yT2P5Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p5.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P5");
-			imgOfPlayer.src = "/img/yellowCard2.svg";
+			imgOfPlayer.src = "img/yellowCard2.svg";
 			break;
 		case "yT2P6Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p6.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P6");
-			imgOfPlayer.src = "/img/yellowCard2.svg";
+			imgOfPlayer.src = "img/yellowCard2.svg";
 			break;
 		case "yT2P7Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p7.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P7");
-			imgOfPlayer.src = "/img/yellowCard2.svg";
+			imgOfPlayer.src = "img/yellowCard2.svg";
 			break;
 		case "yT2P8Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p8.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P8");
-			imgOfPlayer.src = "/img/yellowCard2.svg";
+			imgOfPlayer.src = "img/yellowCard2.svg";
 			break;
 		case "yT2P9Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p9.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P9");
-			imgOfPlayer.src = "/img/yellowCard2.svg";
+			imgOfPlayer.src = "img/yellowCard2.svg";
 			break;
 		case "yT2P10Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p10.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P10");
-			imgOfPlayer.src = "/img/yellowCard2.svg";
+			imgOfPlayer.src = "img/yellowCard2.svg";
 			break;
 		case "yT2P11Btn":
 			timelineContent.innerHTML = `</br>${team2.name} : ${t2p11.name} gets a yellow card ${storeHtml}`;
 			imgOfPlayer = document.getElementById("imgT2P11");
-			imgOfPlayer.src = "/img/yellowCard2.svg";
+			imgOfPlayer.src = "img/yellowCard2.svg";
 			break;
 		default:
 			team2.yellowCards--;
@@ -705,7 +705,7 @@ rdropdown1.addEventListener("click", function (event) {
 			}
 			t1p1.Redcard++;
 			imgOfPlayer = document.getElementById("imgT1P1");
-			imgOfPlayer.src = "/img/redCard1.svg";
+			imgOfPlayer.src = "img/redCard1.svg";
 			break;
 		case "rT1P2Btn":
 			if (!t1p2.Redcard) {
@@ -714,7 +714,7 @@ rdropdown1.addEventListener("click", function (event) {
 			t1p2.Redcard++;
 
 			imgOfPlayer = document.getElementById("imgT1P2");
-			imgOfPlayer.src = "/img/redCard1.svg";
+			imgOfPlayer.src = "img/redCard1.svg";
 			break;
 		case "rT1P3Btn":
 			if (!t1p3.Redcard) {
@@ -723,7 +723,7 @@ rdropdown1.addEventListener("click", function (event) {
 			t1p3.Redcard++;
 
 			imgOfPlayer = document.getElementById("imgT1P3");
-			imgOfPlayer.src = "/img/redCard1.svg";
+			imgOfPlayer.src = "img/redCard1.svg";
 			break;
 		case "rT1P4Btn":
 			if (!t1p4.Redcard) {
@@ -732,7 +732,7 @@ rdropdown1.addEventListener("click", function (event) {
 			t1p4.Redcard++;
 
 			imgOfPlayer = document.getElementById("imgT1P4");
-			imgOfPlayer.src = "/img/redCard1.svg";
+			imgOfPlayer.src = "img/redCard1.svg";
 			break;
 		case "rT1P5Btn":
 			if (!t1p5.Redcard) {
@@ -741,7 +741,7 @@ rdropdown1.addEventListener("click", function (event) {
 			t1p5.Redcard++;
 
 			imgOfPlayer = document.getElementById("imgT1P5");
-			imgOfPlayer.src = "/img/redCard1.svg";
+			imgOfPlayer.src = "img/redCard1.svg";
 			break;
 		case "rT1P6Btn":
 			if (!t1p6.Redcard) {
@@ -750,7 +750,7 @@ rdropdown1.addEventListener("click", function (event) {
 			t1p6.Redcard++;
 
 			imgOfPlayer = document.getElementById("imgT1P6");
-			imgOfPlayer.src = "/img/redCard1.svg";
+			imgOfPlayer.src = "img/redCard1.svg";
 			break;
 		case "rT1P7Btn":
 			if (!t1p7.Redcard) {
@@ -759,7 +759,7 @@ rdropdown1.addEventListener("click", function (event) {
 			t1p7.Redcard++;
 
 			imgOfPlayer = document.getElementById("imgT1P7");
-			imgOfPlayer.src = "/img/redCard1.svg";
+			imgOfPlayer.src = "img/redCard1.svg";
 			break;
 		case "rT1P8Btn":
 			if (!t1p8.Redcard) {
@@ -767,7 +767,7 @@ rdropdown1.addEventListener("click", function (event) {
 			}
 			t1p8.Redcard++;
 			imgOfPlayer = document.getElementById("imgT1P8");
-			imgOfPlayer.src = "/img/redCard1.svg";
+			imgOfPlayer.src = "img/redCard1.svg";
 			break;
 		case "rT1P9Btn":
 			if (!t1p9.Redcard) {
@@ -775,7 +775,7 @@ rdropdown1.addEventListener("click", function (event) {
 			}
 			t1p9.Redcard++;
 			imgOfPlayer = document.getElementById("imgT1P9");
-			imgOfPlayer.src = "/img/redCard1.svg";
+			imgOfPlayer.src = "img/redCard1.svg";
 			break;
 		case "rT1P10Btn":
 			if (!t1p10.Redcard) {
@@ -784,7 +784,7 @@ rdropdown1.addEventListener("click", function (event) {
 			t1p10.Redcard++;
 
 			imgOfPlayer = document.getElementById("imgT1P10");
-			imgOfPlayer.src = "/img/redCard1.svg";
+			imgOfPlayer.src = "img/redCard1.svg";
 			break;
 		case "rT1P11Btn":
 			if (!t1p11.Redcard) {
@@ -792,7 +792,7 @@ rdropdown1.addEventListener("click", function (event) {
 			}
 			t1p11.Redcard++;
 			imgOfPlayer = document.getElementById("imgT1P11");
-			imgOfPlayer.src = "/img/redCard1.svg";
+			imgOfPlayer.src = "img/redCard1.svg";
 			break;
 		default:
 			team1.redCards--;
@@ -816,7 +816,7 @@ rdropdown2.addEventListener("click", function (event) {
 			t2p1.Redcard++;
 
 			imgOfPlayer = document.getElementById("imgT2P1");
-			imgOfPlayer.src = "/img/redCard2.svg";
+			imgOfPlayer.src = "img/redCard2.svg";
 			break;
 		case "rT2P2Btn":
 			if (!t2p2.Redcard) {
@@ -825,7 +825,7 @@ rdropdown2.addEventListener("click", function (event) {
 			t2p2.Redcard++;
 
 			imgOfPlayer = document.getElementById("imgT2P2");
-			imgOfPlayer.src = "/img/redCard2.svg";
+			imgOfPlayer.src = "img/redCard2.svg";
 			break;
 		case "rT2P3Btn":
 			if (!t2p3.Redcard) {
@@ -834,7 +834,7 @@ rdropdown2.addEventListener("click", function (event) {
 			t2p3.Redcard++;
 
 			imgOfPlayer = document.getElementById("imgT2P3");
-			imgOfPlayer.src = "/img/redCard2.svg";
+			imgOfPlayer.src = "img/redCard2.svg";
 			break;
 		case "rT2P4Btn":
 			if (!t2p4.Redcard) {
@@ -843,7 +843,7 @@ rdropdown2.addEventListener("click", function (event) {
 			t2p4.Redcard++;
 
 			imgOfPlayer = document.getElementById("imgT2P4");
-			imgOfPlayer.src = "/img/redCard2.svg";
+			imgOfPlayer.src = "img/redCard2.svg";
 			break;
 		case "rT2P5Btn":
 			if (!t2p5.Redcard) {
@@ -852,7 +852,7 @@ rdropdown2.addEventListener("click", function (event) {
 			t2p5.Redcard++;
 
 			imgOfPlayer = document.getElementById("imgT2P5");
-			imgOfPlayer.src = "/img/redCard2.svg";
+			imgOfPlayer.src = "img/redCard2.svg";
 			break;
 		case "rT2P6Btn":
 			if (!t2p6.Redcard) {
@@ -861,7 +861,7 @@ rdropdown2.addEventListener("click", function (event) {
 			t2p6.Redcard++;
 
 			imgOfPlayer = document.getElementById("imgT2P6");
-			imgOfPlayer.src = "/img/redCard2.svg";
+			imgOfPlayer.src = "img/redCard2.svg";
 			break;
 		case "rT2P7Btn":
 			if (!t2p7.Redcard) {
@@ -870,7 +870,7 @@ rdropdown2.addEventListener("click", function (event) {
 			t2p7.Redcard++;
 
 			imgOfPlayer = document.getElementById("imgT2P7");
-			imgOfPlayer.src = "/img/redCard2.svg";
+			imgOfPlayer.src = "img/redCard2.svg";
 			break;
 		case "rT2P8Btn":
 			if (!t2p8.Redcard) {
@@ -879,7 +879,7 @@ rdropdown2.addEventListener("click", function (event) {
 			t2p8.Redcard++;
 
 			imgOfPlayer = document.getElementById("imgT2P8");
-			imgOfPlayer.src = "/img/redCard2.svg";
+			imgOfPlayer.src = "img/redCard2.svg";
 			break;
 		case "rT2P9Btn":
 			if (!t2p9.Redcard) {
@@ -887,7 +887,7 @@ rdropdown2.addEventListener("click", function (event) {
 			}
 			t2p9.Redcard++;
 			imgOfPlayer = document.getElementById("imgT2P9");
-			imgOfPlayer.src = "/img/redCard2.svg";
+			imgOfPlayer.src = "img/redCard2.svg";
 			break;
 		case "rT2P10Btn":
 			if (!t2p10.Redcard) {
@@ -896,7 +896,7 @@ rdropdown2.addEventListener("click", function (event) {
 			t2p10.Redcard++;
 
 			imgOfPlayer = document.getElementById("imgT2P10");
-			imgOfPlayer.src = "/img/redCard2.svg";
+			imgOfPlayer.src = "img/redCard2.svg";
 			break;
 		case "rT2P11Btn":
 			if (!t2p11.Redcard) {
@@ -905,7 +905,7 @@ rdropdown2.addEventListener("click", function (event) {
 			t2p11.Redcard++;
 
 			imgOfPlayer = document.getElementById("imgT2P11");
-			imgOfPlayer.src = "/img/redCard2.svg";
+			imgOfPlayer.src = "img/redCard2.svg";
 			break;
 		default:
 			team2.redCards--;
