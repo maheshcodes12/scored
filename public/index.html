@@ -15,7 +15,10 @@
 		/>
 	</head>
 	<body>
-		<div id="backToIndex" class="rounded-full text-white pr-4 pl-1 py-2">
+		<div
+			id="backToIndex"
+			class="rounded-full text-white pr-4 pl-1 py-2 fixed"
+		>
 			<a href="index.html" class="flex flex-auto"
 				><img src="img/fi-rr-angle-left.svg" alt="" class="pr-2" />
 				BACK</a
@@ -253,7 +256,7 @@
 							<li>
 								Yellow Card
 								<ul id="teams" class="hidden">
-									<li id="team1">
+									<li id="team1" class="team1">
 										<div class="Team1Btn">Team 1</div>
 										<ul
 											id="ydropdown1"
@@ -327,7 +330,7 @@
 											</li>
 										</ul>
 									</li>
-									<li id="team2">
+									<li id="team2" class="team2">
 										<div class="Team2Btn">Team 2</div>
 										<ul
 											id="ydropdown2"
@@ -411,7 +414,7 @@
 							<li>
 								Red Card
 								<ul id="teams" class="hidden">
-									<li id="team1">
+									<li id="team1" class="team1">
 										<div class="Team1Btn">Team 1</div>
 										<ul
 											id="rdropdown1"
@@ -485,7 +488,7 @@
 											</li>
 										</ul>
 									</li>
-									<li id="team2">
+									<li id="team2" class="team2">
 										<div class="Team2Btn">Team 2</div>
 										<ul
 											id="rdropdown2"
@@ -568,7 +571,7 @@
 						<ul id="goal">
 							<li>
 								Offside
-								<ul id="fteams" class="hidden">
+								<ul id="fteams" class="hidden team1">
 									<li id="fTeam1Btn">Team 1</li>
 									<li id="fTeam2Btn">Team 2</li>
 								</ul>
@@ -580,7 +583,7 @@
 						<ul id="goal">
 							<li>
 								Corner
-								<ul id="cteams" class="hidden">
+								<ul id="cteams" class="hidden team1">
 									<li><div id="cTeam1Btn">Team 1</div></li>
 									<li><div id="cTeam2Btn">Team 2</div></li>
 								</ul>

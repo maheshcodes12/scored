@@ -59,6 +59,7 @@ p[contenteditable="true"] {
 #goal:hover #teams {
 	display: block;
 	position: absolute;
+	color: #8c8c8c;
 	margin-left: -0.25rem;
 	background-color: white;
 	border: 1px solid #f5620f;
@@ -68,6 +69,7 @@ p[contenteditable="true"] {
 #goal:hover #fteams {
 	display: block;
 	position: absolute;
+	color: #8c8c8c;
 	margin-left: -0.25rem;
 	background-color: white;
 	border: 1px solid #f5620f;
@@ -77,6 +79,7 @@ p[contenteditable="true"] {
 #goal:hover #cteams {
 	display: block;
 	position: absolute;
+	color: #8c8c8c;
 	margin-left: -0.25rem;
 	background-color: white;
 	border: 1px solid #f5620f;
@@ -87,8 +90,9 @@ p[contenteditable="true"] {
 	display: block;
 	position: absolute;
 	background-color: white;
-	margin-left: 5rem;
+	color: #8c8c8c;
 	margin-top: -2.2rem;
+	margin-left: 2rem;
 	padding: 0.5rem;
 	width: 5rem;
 	border: 1px solid #f5620f;
@@ -98,12 +102,30 @@ p[contenteditable="true"] {
 	display: block;
 	position: absolute;
 	background-color: white;
+	color: #8c8c8c;
 	margin-top: -2.2rem;
-	margin-left: 5rem;
+	margin-left: 2rem;
 	padding: 0.5rem;
 	width: 5rem;
 	border: 1px solid #f5620f;
 	font-size: 1rem;
+}
+.t1playerNames:hover,
+.t2playerNames:hover {
+	color: #f5620f;
+	background-color: #eff5ef;
+}
+.team1:hover,
+.team2:hover {
+	color: #f5620f;
+	background-color: #eff5ef;
+}
+#fTeam1Btn:hover,
+#fTeam2Btn:hover,
+#cTeam1Btn:hover,
+#cTeam2Btn:hover {
+	color: #f5620f;
+	background-color: #eff5ef;
 }
 /* end dropdown part  */
 
